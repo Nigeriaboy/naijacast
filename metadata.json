@@ -1,0 +1,7 @@
+{
+  "name": "Naija NewsCast",
+  "description": "An application that provides the latest Nigerian news in a podcast format, featuring interactive AI conversations, deep analysis, and text-to-speech capabilities powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
